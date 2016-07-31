@@ -10,7 +10,7 @@ Remove bloatware from Raspberry Pi Raspbian with one script. This will remove th
 7. Penguines Puzzle (penguinspuzzle)
 8. Java (oracle-java8-jdk openjdk-7-jre oracle-java7-jdk openjdk-8-jre)
 
-The script will then `autoremove`, `autoclean` and then `update1 the aptitude pacakges on the Pi itself.
+The script will then `autoremove`, `autoclean` and then `update` the aptitude pacakges on the Pi itself.
 
 ## Installation
 

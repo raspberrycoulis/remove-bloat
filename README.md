@@ -1,4 +1,4 @@
-# remove-bloat
+# Remove Bloatware on the Raspberry Pi
 Remove bloatware from Raspberry Pi Raspbian with one script. This will remove the storage hogging programs and some other often never-used tools including:
 
 1. Wolfram Engine

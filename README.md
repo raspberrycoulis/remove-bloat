@@ -2,7 +2,7 @@
 Remove bloatware from Raspberry Pi Raspbian with one script. This will remove the storage hogging programs and some other often never-used tools including:
 
 1. Wolfram Engine
-2. Libre Office
+2. LibreOffice
 3. Minecraft Pi
 4. Sonic Pi 
 5. Dillo Web Broswer (dillo)
